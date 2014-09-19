@@ -1,0 +1,33 @@
+Open questions
+1. Which hardware do we take
+	1.1. Scope
+		1.1.1 Manual
+		1.1.2 Python
+		1.1.3 Office
+		1.1.4 Access rights
+		1.1.5 Lan connection
+
+	1.2. Keithley
+		1.2.1 Manual
+		1.2.2 Readout
+		1.2.3 Scope synchronization
+		1.2.4 GPIB
+		1.2.5 Triax cable
+
+	1.3 dBLMs
+		1.3.1 Which dBLMs do we take
+		1.3.2 Dark current measurements
+
+	1.4 Cabling
+		1.4.1 Sketch of cabling
+		1.4.2 dBLM -> Scope, icBLM -> Keithley
+		1.4.3 dBLM,icBLM ->s Scope, backup
+		1.4.4 Lists of cables
+
+	1.5 Data storage
+		1.5.1 clean up Scope storrage 
+		1.5.2 Python on scope
+		1.5.3 External HD 
+		1.5.4 USB drive
+		1.5.5 Laptop
+		

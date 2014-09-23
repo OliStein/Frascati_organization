@@ -6,17 +6,33 @@ Open questions
 		1.1.3 Office
 		1.1.4 Access rights
 		1.1.5 Lan connection
+		1.1.6 Internet connection
+
 
 	1.2. Keithley
-		1.2.1 Manual
+		1.2.1 Manual 
+			1.2.1.1 User Manual in printed version (Christian)
 		1.2.2 Readout
 		1.2.3 Scope synchronization
 		1.2.4 GPIB
 		1.2.5 Triax cable
+			1.2.5.1 Cable adapter by Christian
+				1.2.5.1.1 Ask Ewald for adapter/connector (Christian 19.09.2014)
+					1.2.5.1.1.1 Buy triax cable
+			1.2.5.2 Extra transition with adapter cable
+			1.2.5.3 shall we bring a soldering iron?
+				1.2.5.3.1 Ask Ewald 
 
 	1.3 dBLMs
 		1.3.1 Which dBLMs do we take
+			1.3.1.1 100 mu Cividec H1, H2, H3 in the BI Lab for dark current meas
 		1.3.2 Dark current measurements
+			1.3.1.1 19.09.2014 first setup H1 using Christians script, setup sketch?
+			1.3.1.2 22.09.2014 improved python script, see github
+				1.3.1.2.1 Abort and safty controls included
+
+
+
 
 	1.4 Cabling
 		1.4.1 Sketch of cabling
@@ -30,4 +46,12 @@ Open questions
 		1.5.3 External HD 
 		1.5.4 USB drive
 		1.5.5 Laptop
+
+	1.6. Measurement plan
+		1.6.1 plan in general
+		1.6.2 plan for day 1
+			1.6.2.1 What do we want to calibrate?
+
+	1.7. Setup
+		1.7.1. Do we have to change something?
 		
